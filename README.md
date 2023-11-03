@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Todo List Application
 
-## Getting Started
+A robust and modular Todo List application built upon the Hexagonal Architecture design, utilizing React.js, Next.js, and Tailwind CSS.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is an implementation of a highly flexible and scalable Todo List application. Leveraging the Hexagonal Architecture pattern, it separates concerns into layers for increased modularity, making the application easier to maintain and extend.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Add, Remove, and Edit Tasks:** Easily manage your tasks with basic CRUD functionality.
+- **Responsive Design:** Built using Tailwind CSS to ensure responsiveness across various devices.
+- **Seamless Navigation:** Developed using Next.js for optimized routing and improved user experience.
+- **Hexagonal Architecture:** The project follows a modular architecture for better scalability and maintainability.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- **React.js:** Utilized for building the UI components and managing the application's state.
+- **Next.js:** Used for server-rendered React applications and optimized routing.
+- **Tailwind CSS:** Provides a utility-first CSS framework for styling the application.
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   git clone https://github.com/alexarevalo9/todo-list-front-hexagonal-architecture
+   ```
 
-## Deploy on Vercel
+2. Install the dependencies:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   npm install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. Run the application:
+
+   ```bash
+   npm run dev
+   ```
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/alexarevalo9/todo-list-front-hexagonal-architecture/blob/main/LICENSE) file for more details.
+
+---
+
+Feel free to modify and expand this README.md according to your project's specific details and requirements.
