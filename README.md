@@ -42,7 +42,3 @@ This project is an implementation of a highly flexible and scalable Todo List ap
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE](https://github.com/alexarevalo9/todo-list-front-hexagonal-architecture/blob/main/LICENSE) file for more details.
-
----
-
-Feel free to modify and expand this README.md according to your project's specific details and requirements.
