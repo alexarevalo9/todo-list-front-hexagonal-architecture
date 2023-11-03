@@ -1,4 +1,4 @@
-# Todo List Application
+# Todo List Application - Frontend (Hexagonal Architecture)
 
 A robust and modular Todo List application built upon the Hexagonal Architecture design, utilizing React.js, Next.js, and Tailwind CSS.
 
